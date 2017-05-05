@@ -1,0 +1,1 @@
+%AFile3.m: We will delete this file and try to access it later
